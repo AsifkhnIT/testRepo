@@ -1,0 +1,16 @@
+.navbar-nav li{
+    color: rgb(88, 10, 10);
+    padding:6px;
+    font-family: 'Rock Salt', cursive;
+}
+.bg-dark {
+    background-color: rgb(63, 168, 116) !important;
+}
+.navbar-expand-sm .navbar-brand{
+    text-align: right;
+    color: rgb(210, 248, 218);
+    display: block;
+    font-size: 5vh;
+
+
+}
